@@ -17,9 +17,9 @@ Learn everything you need to about the subject of this `eBook` project.
 ## Topics
 ```
 1: WELCOME TO JAVASCRIPT IN THE FULL STACK
-[ ] Node.js changed JavaScript forever
-[ ] The NoSQL movement
-[ ] Summary
+[x] Node.js changed JavaScript forever
+[x] The NoSQL movement
+[x] Summary
 2: GETTING UP AND RUNNING
 [ ] Environment assumptions and requirements
 [ ] Installing Node.js
